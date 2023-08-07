@@ -1,5 +1,3 @@
-# Michelle Lugo
-# CIS 135
 # Homework Program 02
 # In this assignment I made a program that calculates gas mileage and the cost of a tank of gas for a car.
 
